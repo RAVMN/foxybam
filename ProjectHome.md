@@ -1,0 +1,1 @@
+App básica para Firefox OS que muestra una lista de museos, bibliotecas y archivos de Chile.
